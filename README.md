@@ -1,4 +1,4 @@
-#Amazon Web Scraping
+# Amazon Web Scraping
 
 Product:
 Apple iPhone 13 (128GB) - Midnight
